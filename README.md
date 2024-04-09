@@ -3,6 +3,7 @@
 A collective repository of Maddi, Shammi, Sergii and Sergej. 
 
 Analysis of shark attacks worldwide. 
+
 *Goal:* 
 Our goal was to decide
 
@@ -12,3 +13,4 @@ In our project we focussed mostly on the cleaning of the dataset in order to get
 
 *Results:*
 A cleaned Dataframe and modular functions to handle it. Additionally we have gained insights in the frequency of attacks throughout the year/years and shark types most prone to attack.
+Slide URL: https://www.canva.com/design/DAGB2MTgdaM/W0djd0LHbz6DKK3aclOdOg/view?utm_content=DAGB2MTgdaM&utm_campaign=designshare&utm_medium=link&utm_source=editor
